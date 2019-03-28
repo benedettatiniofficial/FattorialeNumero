@@ -19,6 +19,7 @@ namespace libreria
                 {
                     risultato2 = risultato2 * i;
                 }
+
                 return Convert.ToString(risultato2);
             }
             else
